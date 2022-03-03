@@ -1,0 +1,12 @@
+1. Mulai
+2. Masukan text  berupa string
+3. Memeriksa apakah text merupakan palindrom atau bukan
+4. Jika text merupakan palindrom output adalah palindrom
+5. Jika tidak maka output adalah bukan palindrom
+6. Selesai
+
+Reverse Words
+1. Mulai
+2. Masukan text, text harus berupa string
+3. Ubah urutan text perkata menjadi terbalik, dari kata terakhir menjadi pertama
+4. Selesai

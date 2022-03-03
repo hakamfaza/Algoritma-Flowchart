@@ -1,0 +1,11 @@
+Reverse Words
+1. Mulai
+2. Masukan text, text harus berupa string.
+4. Jika text bukan string maka kembali tahap ke 2.
+5. Membuat variable string = text.split(' ').
+6. Membuat variable x = string.length - 1.
+7. 
+
+
+3. Ubah urutan text perkata menjadi terbalik, dari kata terakhir menjadi pertama
+4. Selesai 
