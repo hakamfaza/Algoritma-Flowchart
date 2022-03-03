@@ -4,8 +4,8 @@ Reverse Words
 4. Jika text bukan string maka kembali tahap ke 2.
 5. Membuat variable string = text.split(' ').
 6. Membuat variable x = string.length - 1.
-7. 
-
-
-3. Ubah urutan text perkata menjadi terbalik, dari kata terakhir menjadi pertama
-4. Selesai 
+7. Jika variable x >= 0 maka buat variable yang berisi nilai hasil + text[x] + ' '.
+8. Setiap looping terjadi, variable x akan - 1.
+9. Jika variable x<= 0 maka akan melanjutkan tahap selanjutnya.
+10. Cetak output.
+11. Selesai

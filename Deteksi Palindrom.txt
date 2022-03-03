@@ -1,12 +1,11 @@
-1. Mulai
-2. Masukan text  berupa string
-3. Memeriksa apakah text merupakan palindrom atau bukan
-4. Jika text merupakan palindrom output adalah palindrom
-5. Jika tidak maka output adalah bukan palindrom
-6. Selesai
-
-Reverse Words
-1. Mulai
-2. Masukan text, text harus berupa string
-3. Ubah urutan text perkata menjadi terbalik, dari kata terakhir menjadi pertama
-4. Selesai
+Deteksi Palindrom
+1. Mulai.
+2. Masukan text berupa string.
+3. Jika text bukan string maka kembali ke tahap 2.
+4. Membuat variable x = text.length - 1.
+5. Jika variable x >= 0 maka buat variable hasil yang berisi nilai hasil + text[x].
+6. Setiap looping terjadi, variable x akan - 1;
+7. Jika variable x <= 0 maka akan melanjutkan kondisi selanjutnya.
+8. Jika hasil = text, maka output adalah palindrom.
+9. Jika hasil != text, maka output adalah bukan palindrom.
+10. Selesai.
