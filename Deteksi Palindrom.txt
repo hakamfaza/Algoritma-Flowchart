@@ -4,7 +4,7 @@ Deteksi Palindrom
 3. Jika text bukan string maka kembali ke tahap 2.
 4. Membuat variable x = text.length - 1.
 5. Jika variable x >= 0 maka buat variable hasil yang berisi nilai hasil + text[x].
-6. Setiap looping terjadi, variable x akan - 1;
+6. Setiap terjadi looping , variable x akan - 1;
 7. Jika variable x <= 0 maka akan melanjutkan kondisi selanjutnya.
 8. Jika hasil = text, maka output adalah palindrom.
 9. Jika hasil != text, maka output adalah bukan palindrom.
