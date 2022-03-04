@@ -5,7 +5,7 @@ Reverse Words
 5. Membuat variable string = text.split(' ').
 6. Membuat variable x = string.length - 1.
 7. Jika variable x >= 0 maka buat variable yang berisi nilai hasil + text[x] + ' '.
-8. Setiap looping terjadi, variable x akan - 1.
-9. Jika variable x<= 0 maka akan melanjutkan tahap selanjutnya.
-10. Cetak output.
+8. Setiap terjadi looping, variable x akan - 1.
+9. Jika variable x <= 0 maka akan melanjutkan tahap selanjutnya.
+10. Cetak output hasil.
 11. Selesai
